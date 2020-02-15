@@ -13,7 +13,7 @@ Software engineer, KAIST undergraduate.
 
 ## Currently
 
-One last semester to go as an undergraduate. Conducting individual research in [KAIST CP lab](https://cp.kaist.ac.kr) developing KECC, KAIST Educational C Compiler.
+One last semester to go as an undergraduate. Conducting individual research in [KAIST CP lab](https://cp.kaist.ac.kr) developing **KECC, KAIST Educational C Compiler** for *CS420: Compiler Design in Spring 2020*.
 
 ### Specialized in
 
