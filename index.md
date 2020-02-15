@@ -1,23 +1,23 @@
 ---
 layout: cv
-title: Hyunsu Kim's CV
+title: Hyunsu Kim
 ---
 # Hyunsu Kim
 Software engineer, KAIST undergraduate.
 
 <div id="webaddress">
-<a href="hyunsu.kim00@kaist.ac.kr">hyunsu.kim00@kaist.ac.kr</a>
+<a href="mailto:hyunsu.kim00@kaist.ac.kr">hyunsu.kim00@kaist.ac.kr</a>
 | <a href="https://cp.kaist.ac.kr/hyunsu.kim">My current affiliation</a>
 </div>
 
 
 ## Currently
 
-One last semester to go as an undergraduate. Planning to 
+One last semester to go as an undergraduate. Conducting individual research in [KAIST CP lab](https://cp.kaist.ac.kr) developing KECC, KAIST Educational C Compiler.
 
 ### Specialized in
 
-Systems programming (C/C++) with safety (Rust), Web front-end development (JS/TS with React.js + Redux)
+Systems programming (C/C++) with safety (Rust), Web front-end development (JS/TS with React.js + Redux), Prompt scripting skills (shell, Python), Database engineering (SQL, Spark, TensorFlow)
 
 
 ### Research interests
@@ -53,10 +53,6 @@ Data Cleaning for Accurate, Fair, and Robust Models: A Big Data - AI Integration
 __Classum__, Rep. of Korea
 
 - Web front-end developer
-
-
-## Projects
-
 
 
 ### Footer
