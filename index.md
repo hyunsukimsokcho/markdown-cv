@@ -56,9 +56,9 @@ __Classum__, Rep. of Korea
 
 ## Projects
 
-Check out my github repo: [hyunsukimsokcho](https://github.com/hyunsukimsokcho)
+Check out my github repo: [:octocat:](https://github.com/hyunsukimsokcho)
 
-###
+### .
 
 Last updated: Feb 2020
 
