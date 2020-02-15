@@ -54,8 +54,11 @@ __Classum__, Rep. of Korea
 
 - Web front-end developer
 
+## Projects
 
-### Footer
+Check out my github repo: [hyunsukimsokcho](https://github.com/hyunsukimsokcho)
+
+###
 
 Last updated: Feb 2020
 
