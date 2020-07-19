@@ -5,7 +5,7 @@ title: Hyunsu Kim
 
 # Hyunsu Kim
 
-Software engineer, KAIST graduate (now pursing Master's degree).
+Software engineer, KAIST undergraduate (now pursing Master's degree).
 
 <div id="webaddress">
 <a href="mailto:hyunsu.kim00@kaist.ac.kr">hyunsu.kim00@kaist.ac.kr</a>
@@ -40,7 +40,7 @@ Scalable model for program synthesis and reasoning
 `2020 - now`
 **KAIST, Master, Daejeon**
 
-- Graduate School of Information Security (or 정보보호대학원)
+- Graduate School of Information Security
 
 `2014 - 2020`
 **KAIST, Undergraduate, Daejeon**
