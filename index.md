@@ -27,10 +27,13 @@ Mathematical Reasoning (OCaml, Coq), Prompt scripting skills (shell, Python), Sy
 
 ### Research interests
 
-- - Continuous vulnerability reasoning in software **[WIP]**
-- - Abstract interpretations in security domain
-- - Program representation for robust learning
-- - Scalable model for program synthesis and reasoning
+- Continuous vulnerability reasoning in software **[WIP]**
+
+- Abstract interpretations in security domain
+
+- Program representation for robust learning
+
+- Scalable model for program synthesis and reasoning
 
 ## Education
 
