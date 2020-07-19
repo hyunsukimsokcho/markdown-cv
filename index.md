@@ -27,7 +27,7 @@ Mathematical Reasoning (OCaml, Coq), Prompt scripting skills (shell, Python), Sy
 
 ### Research interests
 
-- **[WIP]** Continuous vulnerability reasoning in software
+- Continuous vulnerability reasoning in software **[WIP]**
 - Abstract interpretations in security domain
 - Program representation for robust learning
 - Scalable model for program synthesis and reasoning
@@ -67,4 +67,4 @@ Check out my github repo: [✈️](https://github.com/hyunsukimsokcho)
 
 ### .
 
-Last updated: Feb 2020
+Last updated: Jul 2020
