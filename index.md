@@ -38,7 +38,9 @@ Scalable model for program synthesis and reasoning
 ## Education
 
 `2020 - now`
-**KAIST GSIS (Graduate School of Information Security, or 정보보호대학원), Master, Daejeon**
+**KAIST, Master, Daejeon**
+
+- Graduate School of Information Security (or 정보보호대학원)
 
 `2014 - 2020`
 **KAIST, Undergraduate, Daejeon**
