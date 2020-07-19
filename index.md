@@ -27,10 +27,10 @@ Mathematical Reasoning (OCaml, Coq), Prompt scripting skills (shell, Python), Sy
 
 ### Research interests
 
-- Continuous vulnerability reasoning in software **[WIP]**
-- Abstract interpretations in security domain
-- Program representation for robust learning
-- Scalable model for program synthesis and reasoning
+- - Continuous vulnerability reasoning in software **[WIP]**
+- - Abstract interpretations in security domain
+- - Program representation for robust learning
+- - Scalable model for program synthesis and reasoning
 
 ## Education
 
@@ -48,7 +48,7 @@ Mathematical Reasoning (OCaml, Coq), Prompt scripting skills (shell, Python), Sy
 ## Awards
 
 `2018`
-Qualcomm Innovation Awards, _Qualcomm-KAIST Innovation Awards Committee_, Daejeon, Rep, of Korea
+Qualcomm Innovation Awards, _Qualcomm-KAIST Innovation Awards Committee_, Daejeon, Rep. of Korea
 
 ## Publications
 
