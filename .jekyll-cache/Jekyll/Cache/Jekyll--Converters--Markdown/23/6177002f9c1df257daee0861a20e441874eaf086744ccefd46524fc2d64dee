@@ -1,0 +1,81 @@
+I"]<p><img src="static/hyunsu.jpeg" style="width: 96px; height: 96px; position: absolute; left: -150px;" /></p>
+
+<h1 id="hyunsu-kim">Hyunsu Kim</h1>
+
+<p>Software engineer, KAIST undergraduate (now pursing Master’s degree).</p>
+
+<div id="webaddress">
+<a href="mailto:hyunsu.kim00@kaist.ac.kr">hyunsu.kim00@kaist.ac.kr</a>
+| <a href="https://prosys.kaist.ac.kr" target="_blank">My current affiliation</a>
+</div>
+
+<h2 id="currently">Currently</h2>
+
+<p>Just finished my last semester as an undergraduate. I am willing to join <a href="https://prosys.kaist.ac.kr" target="_blank">Prosyslab @ KAIST</a> advised by <a href="https://kihongheo.kaist.ac.kr" target="_blank">Kihong Heo</a>.</p>
+
+<h2 id="recently">Recently</h2>
+
+<ul>
+  <li>Serve as a teaching assistant for <em>CS360: Introduction to Databases in Spring 2020</em>.</li>
+  <li>Participate developing <strong>KECC, KAIST Educational C Compiler</strong> for <em>CS420: Compiler Design in Spring 2020</em>.</li>
+</ul>
+
+<h3 id="specialized-in">Specialized in</h3>
+
+<p>Mathematical Reasoning (OCaml, Coq), Prompt scripting skills (shell, Python), Systems programming (C/C++) with safety (Rust), Web front-end development (JS/TS with React.js + Redux), Database engineering (SQL, Spark, TensorFlow)</p>
+
+<h3 id="research-interests">Research interests</h3>
+
+<p>Continuous vulnerability reasoning in software <strong>[WIP]</strong></p>
+
+<p>Abstract interpretations in security domain</p>
+
+<p>Program representation for robust learning</p>
+
+<p>Scalable model for program synthesis and reasoning</p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2020 - now</code>
+<strong>KAIST, Master, Daejeon</strong></p>
+
+<ul>
+  <li>Graduate School of Information Security</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2014 - 2020</code>
+<strong>KAIST, Undergraduate, Daejeon</strong></p>
+
+<ul>
+  <li>School of Computing, Mathematical Science (Double major)</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2012 - 2013</code>
+<strong>Gangwon Sci. High School, Wonju.</strong></p>
+
+<h2 id="awards">Awards</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2018</code>
+Qualcomm Innovation Awards, <em>Qualcomm-KAIST Innovation Awards Committee</em>, Daejeon, Rep. of Korea</p>
+
+<h2 id="publications">Publications</h2>
+
+<p>Data Cleaning for Accurate, Fair, and Robust Models: A Big Data - AI Integration Approach [Short Paper] Kihyun Tae; Yuji Roh; Young Hun Oh; <strong>Hyunsu Kim</strong>; Steven Whang (KAIST)</p>
+
+<h2 id="occupation">Occupation</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Feb 2019-Jan 2020</code>
+<strong>Classum</strong>, Rep. of Korea</p>
+
+<ul>
+  <li>Web front-end developer</li>
+</ul>
+
+<h2 id="projects">Projects</h2>
+
+<p>Check out my github repo: <a href="https://github.com/hyunsukimsokcho">✈️</a></p>
+
+<h3>.</h3>
+
+<p>Last updated: Jul 2020</p>
+:ET

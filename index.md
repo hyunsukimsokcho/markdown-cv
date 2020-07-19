@@ -3,6 +3,8 @@ layout: cv
 title: Hyunsu Kim
 ---
 
+<img src="static/hyunsu.jpeg" style="width: 128px; height: 128px; position: absolute; left: -180px;">
+
 # Hyunsu Kim
 
 Software engineer, KAIST undergraduate (now pursing Master's degree).
@@ -14,7 +16,7 @@ Software engineer, KAIST undergraduate (now pursing Master's degree).
 
 ## Currently
 
-Just finished my last semester as an undergraduate. I am willing to join [Prosyslab @ KAIST](https://prosys.kaist.ac.kr) advised by [Kihong Heo](https://kihongheo.kaist.ac.kr).
+Just finished my last semester as an undergraduate. I am willing to join <a href="https://prosys.kaist.ac.kr" target="_blank">Prosyslab @ KAIST</a> advised by <a href="https://kihongheo.kaist.ac.kr" target="_blank">Kihong Heo</a>.
 
 ## Recently
 
