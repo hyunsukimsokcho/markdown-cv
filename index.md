@@ -9,7 +9,7 @@ Software engineer, KAIST graduate (now pursing Master's degree).
 
 <div id="webaddress">
 <a href="mailto:hyunsu.kim00@kaist.ac.kr">hyunsu.kim00@kaist.ac.kr</a>
-| <a href="https://prosys.kaist.ac.kr">My current affiliation</a>
+| <a href="https://prosys.kaist.ac.kr" target="_blank">My current affiliation</a>
 </div>
 
 ## Currently
