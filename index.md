@@ -7,7 +7,7 @@ title: Hyunsu Kim
 
 # Hyunsu Kim
 
-Software engineer, Static learner
+Masters student, Static learner
 
 <div id="webaddress">
 <a href="mailto:hyunsu.kim00@kaist.ac.kr">hyunsu.kim00@kaist.ac.kr</a>
