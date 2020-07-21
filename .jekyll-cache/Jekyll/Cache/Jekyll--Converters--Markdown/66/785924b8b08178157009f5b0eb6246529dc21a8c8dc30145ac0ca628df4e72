@@ -1,0 +1,70 @@
+I",	<p><img src="static/hyunsu.jpeg" style="width: 128px; height: 128px; position: absolute; left: -180px;" /></p>
+
+<h1 id="hyunsu-kim">Hyunsu Kim</h1>
+
+<p>Software engineer, Static learner.</p>
+
+<div id="webaddress">
+<a href="mailto:hyunsu.kim00@kaist.ac.kr">hyunsu.kim00@kaist.ac.kr</a>
+| <a href="https://prosys.kaist.ac.kr" target="_blank">Programming Systems Laboratory</a>
+</div>
+
+<h2 id="currently">Currently</h2>
+
+<p>Just finished my last semester as an undergraduate. I am willing to join <a href="https://prosys.kaist.ac.kr" target="_blank">Prosyslab @ KAIST</a> advised by <a href="https://kihongheo.kaist.ac.kr" target="_blank">Kihong Heo</a>.</p>
+
+<h3 id="research-interests">Research interests</h3>
+
+<p>Continuous vulnerability reasoning in software</p>
+
+<p>Abstract interpretations in security domain</p>
+
+<p>Program representation for robust learning</p>
+
+<p>Scalable model for program synthesis and reasoning</p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2020 - now</code>
+<strong>Masters student, KAIST</strong></p>
+
+<ul>
+  <li>Graduate School of Information Security</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2014 - 2020</code>
+<strong>B.S., KAIST</strong></p>
+
+<ul>
+  <li>School of Computing, Mathematical Science (Double major)</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2012 - 2013</code>
+<strong>Gangwon Sci. High School</strong></p>
+
+<h2 id="awards">Awards</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2018</code>
+<em>Qualcomm Innovation Awards</em>, Qualcomm-KAIST Innovation Awards Committee</p>
+
+<h2 id="publications">Publications</h2>
+
+<p>Data Cleaning for Accurate, Fair, and Robust Models: A Big Data - AI Integration Approach [Short Paper] Kihyun Tae; Yuji Roh; Young Hun Oh; <strong>Hyunsu Kim</strong>; Steven Whang (KAIST)</p>
+
+<h2 id="occupation">Occupation</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2019</code>
+<strong>Classum</strong>, Rep. of Korea</p>
+
+<ul>
+  <li>Web front-end developer</li>
+</ul>
+
+<h2 id="projects">Projects</h2>
+
+<p>Check out my github repo: <a href="https://github.com/hyunsukimsokcho" target="_blank"><img src="static/octocat-32px.png" style="width: 16px; height: 16px; position: absolute; margin-left: 4px;" /></a></p>
+
+<h3>.</h3>
+
+<p>Last updated: Jul 2020</p>
+:ET
