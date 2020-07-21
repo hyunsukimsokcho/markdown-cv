@@ -18,7 +18,7 @@ Software engineer, Static learner
 
 Just finished my last semester as an undergraduate. I am willing to join <a href="https://prosys.kaist.ac.kr" target="_blank">Prosyslab @ KAIST</a> advised by <a href="https://kihongheo.kaist.ac.kr" target="_blank">Kihong Heo</a>.
 
-### Research interests
+## Research Interests
 
 Continuous vulnerability reasoning in software
 
