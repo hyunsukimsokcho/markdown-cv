@@ -43,11 +43,6 @@ Scalable model for program synthesis and reasoning
 `2012 - 2013`
 **Gangwon Sci. High School**
 
-## Awards
-
-`2018`
-_Qualcomm Innovation Awards_, Qualcomm-KAIST Innovation Awards Committee
-
 ## Publications
 
 `ICSE 2022`
@@ -56,7 +51,7 @@ _Qualcomm Innovation Awards_, Qualcomm-KAIST Innovation Awards Committee
 - Hyunsu Kim, Mukund Raghothaman, and Kihong Heo
 - Proceedings of the 44th ACM/IEEE International Conference on Software Engineering,
   ICSE 2022,
-  May 2022
+  May 2022.
   (To appear)
 
 `DEEM 2019`
@@ -65,7 +60,12 @@ _Qualcomm Innovation Awards_, Qualcomm-KAIST Innovation Awards Committee
 - Kihyun Tae, Yuji Roh, Young Hun Oh, Hyunsu Kim, and Steven Euijong Whang
 - Proceedings of the 3rd International Workshop on Data Management for End-to-End Machine Learning,
   DEEM at ACM SIGMOD 2019,
-  June 2019
+  June 2019.
+
+## Awards
+
+`2018`
+_Qualcomm Innovation Awards_, Qualcomm-KAIST Innovation Awards Committee
 
 ## Occupation
 
