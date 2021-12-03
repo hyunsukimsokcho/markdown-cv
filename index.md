@@ -16,7 +16,7 @@ Masters student, Static learner
 
 ## Currently
 
-Just finished my last semester as an undergraduate. I am willing to join <a href="https://prosys.kaist.ac.kr" target="_blank">Prosyslab @ KAIST</a> advised by <a href="https://kihongheo.kaist.ac.kr" target="_blank">Kihong Heo</a>.
+I am a member of <a href="https://prosys.kaist.ac.kr" target="_blank">Programming Systems Laboratory (Prosyslab)</a> in KAIST advised by <a href="https://kihongheo.kaist.ac.kr" target="_blank">Kihong Heo</a>.
 
 ## Research Interests
 
@@ -50,7 +50,22 @@ _Qualcomm Innovation Awards_, Qualcomm-KAIST Innovation Awards Committee
 
 ## Publications
 
-Data Cleaning for Accurate, Fair, and Robust Models: A Big Data - AI Integration Approach [Short Paper] Kihyun Tae; Yuji Roh; Young Hun Oh; **Hyunsu Kim**; Steven Whang (KAIST)
+`ICSE 2022`
+**Learning Probabilistic Models for Static Analysis Alarms**
+
+- Hyunsu Kim, Mukund Raghothaman, and Kihong Heo
+- Proceedings of the 44th ACM/IEEE International Conference on Software Engineering,
+  ICSE 2022,
+  May 2022
+  (To appear)
+
+`DEEM 2019`
+**Data Cleaning for Accurate, Fair, and Robust Models: A Big Data - AI Integration Approach**
+
+- Kihyun Tae, Yuji Roh, Young Hun Oh, Hyunsu Kim, and Steven Euijong Whang
+- Proceedings of the 3rd International Workshop on Data Management for End-to-End Machine Learning,
+  DEEM at ACM SIGMOD 2019,
+  June 2019
 
 ## Occupation
 
