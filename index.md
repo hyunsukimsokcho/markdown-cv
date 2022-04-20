@@ -52,7 +52,8 @@ Scalable model for program synthesis and reasoning
 - Proceedings of the 44th ACM/IEEE International Conference on Software Engineering,
   ICSE 2022,
   May 2022.
-  (To appear)
+- 🏆 **Best Artifact Award**
+- [[paper](publications/icse2022.pdf)]
 
 `DEEM 2019`
 **Data Cleaning for Accurate, Fair, and Robust Models: A Big Data - AI Integration Approach**
