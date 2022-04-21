@@ -49,11 +49,18 @@ Scalable model for program synthesis and reasoning
 **Learning Probabilistic Models for Static Analysis Alarms**
 
 - Hyunsu Kim, Mukund Raghothaman, and Kihong Heo
+- 🏆 **Best Artifact Award**
 - Proceedings of the 44th ACM/IEEE International Conference on Software Engineering,
   ICSE 2022,
   May 2022.
-- 🏆 **Best Artifact Award**
-- [[paper](publications/icse2022.pdf)] [[full-version](publications/icse2022-full.pdf)]
+- [[paper](publications/icse2022.pdf)] [[full-version](publications/icse2022-full.pdf)] [[video](https://youtu.be/FzshZZyqU14)]
+
+`KCC 2021`
+**베이지안 알람 랭킹 시스템의 거짓 일반화 문제와 해결 방안**
+
+- Hyunsu Kim and Kihong Heo
+- 🏆 **우수논문상**
+- Korea Computer Congress, KCC 2021, June 2021.
 
 `DEEM 2019`
 **Data Cleaning for Accurate, Fair, and Robust Models: A Big Data - AI Integration Approach**
@@ -63,10 +70,24 @@ Scalable model for program synthesis and reasoning
   DEEM at ACM SIGMOD 2019,
   June 2019.
 
+## Talks
+
+`2022`
+[_When Usability met 2FA_](https://pretalx.com/bsidesmunich2022/talk/review/FNUBDWKZVAB7YTLECBVYP3VULC8RVJKA), [BSides Munich 2022](https://2022.bsidesmunich.org/agenda/), May 2022 (To appear).
+
+[_BayeSmith: 정적 분석 알람을 위한 확률 모델 학습_](slides/sigpl-winter-school-2022.pdf), [SIGPL Winter School 2022](https://sigpl.or.kr/school/2022w/), Feb 2022.
+
+
 ## Awards
 
+`2022`
+_Best Artifact Awards_, ICSE 2022.
+
+`2021`
+_우수논문상_, KCC 2021, Korean Institute of Information Scientists and Engineers (한국정보과학회).
+
 `2018`
-_Qualcomm Innovation Awards_, Qualcomm-KAIST Innovation Awards Committee
+_Qualcomm Innovation Awards_, Qualcomm-KAIST Innovation Awards Committee.
 
 ## Occupation
 
