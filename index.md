@@ -53,7 +53,7 @@ Scalable model for program synthesis and reasoning
 - Proceedings of the 44th ACM/IEEE International Conference on Software Engineering,
   ICSE 2022,
   May 2022.
-- [[paper](publications/icse2022.pdf)] [[full-version](publications/icse2022-full.pdf)] [[video](https://youtu.be/FzshZZyqU14)]
+- [[paper](publications/icse2022.pdf)] [[full-version](publications/icse2022-full.pdf)] [[video](https://youtu.be/FzshZZyqU14)] [[artifact](https://zenodo.org/record/6300874#.YmOChpPP07Y)]
 
 `KCC 2021`
 **베이지안 알람 랭킹 시스템의 거짓 일반화 문제와 해결 방안**
@@ -73,10 +73,11 @@ Scalable model for program synthesis and reasoning
 ## Talks
 
 `2022`
-[_When Usability met 2FA_](https://pretalx.com/bsidesmunich2022/talk/review/FNUBDWKZVAB7YTLECBVYP3VULC8RVJKA), [BSides Munich 2022](https://2022.bsidesmunich.org/agenda/), May 2022 (To appear).
+[_When Usability met 2FA_](https://pretalx.com/bsidesmunich2022/talk/review/FNUBDWKZVAB7YTLECBVYP3VULC8RVJKA), [BSides Munich 2022](https://2022.bsidesmunich.org/agenda/), May 2022 (to appear).
+
+- Hyunsu Kim, Junoh Lee, Myeong Geun Shin, Kihong Heo and Sang Kil Cha.
 
 [_BayeSmith: 정적 분석 알람을 위한 확률 모델 학습_](slides/sigpl-winter-school-2022.pdf), [SIGPL Winter School 2022](https://sigpl.or.kr/school/2022w/), Feb 2022.
-
 
 ## Awards
 
