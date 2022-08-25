@@ -43,7 +43,6 @@ Any change you want to make to your CV from then on would have to be done on the
 ## Styling
 
 The included CSS will render your CV in two styles:
-s
 
 1. `kjhealy` the original default, inspired by [kjhealy's vita
    template](https://github.com/kjhealy/kjh-vita).

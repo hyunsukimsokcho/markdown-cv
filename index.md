@@ -7,33 +7,31 @@ title: Hyunsu Kim
 
 # Hyunsu Kim
 
-Masters student, Static learner
+Software engineer, Constant learner
 
 <div id="webaddress">
-<a href="mailto:hyunsu.kim00@kaist.ac.kr">hyunsu.kim00@kaist.ac.kr</a>
-| <a href="https://prosys.kaist.ac.kr" target="_blank">Programming Systems Laboratory</a>
+<a href="mailto:hyunsu.kim@furiosa.ai">hyunsu.kim@furiosa.ai</a>
+| <a href="https://furiosa.ai" target="_blank">Furiosa AI</a>
 </div>
 
 ## Currently
 
-I am a member of <a href="https://prosys.kaist.ac.kr" target="_blank">Programming Systems Laboratory (Prosyslab)</a> in KAIST advised by <a href="https://kihongheo.kaist.ac.kr" target="_blank">Kihong Heo</a>.
+I am a software enginner of <a href="https://furiosa.ai" target="_blank">Furiosa AI</a> in Seoul, Korea.
 
 ## Research Interests
 
-Continuous vulnerability reasoning in software
+Compiler infrastructure for effective and efficient HW acceleration (MLIR)
 
-Abstract interpretations in security domain
+Neural network pruning and quantization
 
 Program representation for robust learning
 
-Scalable model for program synthesis and reasoning
-
 ## Education
 
-`2020 - now`
+`2020 - 2022`
 **Masters student, KAIST**
 
-- Graduate School of Information Security
+- Programming Systems Lab (advisor: Kihong Heo), Graduate School of Information Security
 
 `2014 - 2020`
 **B.S., KAIST**
@@ -73,7 +71,9 @@ Scalable model for program synthesis and reasoning
 ## Talks
 
 `2022`
-[_When Usability met 2FA_](https://pretalx.com/bsidesmunich2022/talk/review/FNUBDWKZVAB7YTLECBVYP3VULC8RVJKA), [BSides Munich 2022](https://2022.bsidesmunich.org/agenda/), May 2022 (to appear).
+[_Learning Probabilistic Models for Static Analysis Alarms_](slides/kcc2022.pdf), KCC 2022 Top Conference 세션, Jun 2022.
+
+[_When Usability met 2FA_](https://pretalx.com/bsidesmunich2022/talk/review/FNUBDWKZVAB7YTLECBVYP3VULC8RVJKA), [BSides Munich 2022](https://2022.bsidesmunich.org/agenda/), May 2022.
 
 - Hyunsu Kim, Junoh Lee, Myeong Geun Shin, Kihong Heo and Sang Kil Cha.
 
@@ -91,6 +91,11 @@ _우수논문상_, KCC 2021, Korean Institute of Information Scientists and Engi
 _Qualcomm Innovation Awards_, Qualcomm-KAIST Innovation Awards Committee.
 
 ## Occupation
+
+`now`
+**Furiosa AI**
+
+- Software engineer
 
 `2019`
 **Classum**
