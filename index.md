@@ -16,7 +16,7 @@ Software engineer, Constant learner
 
 ## Currently
 
-I am a software enginner of <a href="https://furiosa.ai" target="_blank">Furiosa AI</a> in Seoul, Korea.
+I am a software enginner at <a href="https://furiosa.ai" target="_blank">Furiosa AI</a> in Seoul, Korea.
 
 ## Research Interests
 
@@ -71,7 +71,7 @@ Program representation for robust learning
 ## Talks
 
 `2022`
-[_Learning Probabilistic Models for Static Analysis Alarms_](slides/kcc2022.pdf), KCC 2022 Top Conference 세션, Jun 2022.
+[_Learning Probabilistic Models for Static Analysis Alarms_](slides/kcc2022.pdf), [KCC 2022](https://www.kiise.or.kr/conference/kcc/2022/) Top Conference 세션, Jun 2022.
 
 [_When Usability met 2FA_](https://pretalx.com/bsidesmunich2022/talk/review/FNUBDWKZVAB7YTLECBVYP3VULC8RVJKA), [BSides Munich 2022](https://2022.bsidesmunich.org/agenda/), May 2022.
 
