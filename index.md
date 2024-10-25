@@ -7,7 +7,7 @@ title: Hyunsu Kim
 
 # Hyunsu Kim
 
-Software engineer, Constant learner
+software engineer, constant learner
 
 <div id="webaddress">
 <a href="mailto:hyunsu.kim@furiosa.ai">hyunsu.kim@furiosa.ai</a>
@@ -29,17 +29,14 @@ Program representation for robust learning
 ## Education
 
 `2020 - 2022`
-**Masters student, KAIST**
+**M.S., KAIST**
 
-- Programming Systems Lab (advisor: Kihong Heo), Graduate School of Information Security
+- Programming Systems Lab (advisor: [Kihong Heo](https://kihongheo.kaist.ac.kr/)), Graduate School of Information Security
 
 `2014 - 2020`
 **B.S., KAIST**
 
 - School of Computing, Mathematical Science (Double major)
-
-`2012 - 2013`
-**Gangwon Sci. High School**
 
 ## Publications
 
@@ -108,4 +105,4 @@ Check out my github repo: <a href="https://github.com/hyunsukimsokcho" target="_
 
 ### .
 
-Last updated: Aug 2022
+Last updated: Oct 2024
